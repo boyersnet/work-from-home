@@ -1,6 +1,6 @@
 # Work from Home setup
 
-![Desktop](desktop.jpg)
+![Desktop](Desktop.jpg)
 
 [Mic](https://www.amazon.com/gp/product/B07QFRXJ9R/) $20
 ![Mic](usb_mic.jpg)
