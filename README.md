@@ -1,5 +1,5 @@
-# work-from-home
-Work from Home setup
+# Work from Home setup
+
 
 [Mic](https://www.amazon.com/gp/product/B07QFRXJ9R/) $20
 ![](usb_mic.jpg)
