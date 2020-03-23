@@ -9,6 +9,7 @@
 6. Always assume you are NOT muted
 7. Run your video.  Your coworkers want to see you.  Plus nonverbal communication is important too.
 8. Wear pants.
+9. Use the chat feature for side conversations and sharing other types of resources (links, documents, etc.)
 
 
 ### My Setup
