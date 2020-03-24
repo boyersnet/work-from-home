@@ -1,4 +1,4 @@
-# Work from Home setup
+# Work from Home
 
 ### Tips
 1. Use an external Headset and Mic, not your computer speakers and built in mic.
@@ -16,15 +16,22 @@
 ![Desktop](Desktop.jpg)
 
 ### Tools I use
+#### 2015 MacBook Pro
+![2015 MacBook Pro](2015MacbookPro.jpg)
+
+#### Desktop Microphone
 [Mic](https://amzn.to/39h32aG) $20
 ![Mic](usb_mic.jpg)
 
+#### Headset
 [Headset](https://amzn.to/2UvpF5X) $15
 ![Headset](sony-mdr-ex110ap.jpg)
 
-Video - Macbook camera but any HD webcam will do
+#### Video Camera
+I use my Macbook camera but any HD webcam will do.
 
-Monitors - 2 HP LA2405x monitors.
+#### Monitors
+2 HP LA2405x monitors.
 ![Monitor](HP_LA2405x.jpg)
 
 
