@@ -16,13 +16,16 @@
 ![Desktop](Desktop.jpg)
 
 ### Tools I use
-[Mic](https://www.amazon.com/gp/product/B07QFRXJ9R/) $20
+[Mic](https://amzn.to/39h32aG) $20
 ![Mic](usb_mic.jpg)
 
-[Headset](https://www.amazon.com/Sony-MDR-EX100IP-Earbuds-iPod-iPhone/dp/B00BN0N0K8) $35
-![Headset](sony_mdrex100ip.jpg)
+[Headset](https://amzn.to/2UvpF5X) $15
+![Headset](sony-mdr-ex110ap.jpg)
 
 Video - Macbook camera but any HD webcam will do
 
 Monitors - 2 HP LA2405x monitors.
 ![Monitor](HP_LA2405x.jpg)
+
+
+*Amazon Links are affiliate links
